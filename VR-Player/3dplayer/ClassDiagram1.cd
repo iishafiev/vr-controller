@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Globals">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAGIQAAABAhAEAEAEIAAAAAAAEggACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Globals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetManager">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAYAQAAAACAAAOACAFEARAABQAAAAAIAgAACACQJAIA=</HashCode>
+      <FileName>Assets\Scripts\NetManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMessage">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RequestDeviceInfo">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeviceInfo">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerState">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <InheritanceLine Type="PlayerMessage" FixedToPoint="true">
+      <Path>
+        <Point X="8.75" Y="2.247" />
+        <Point X="8.75" Y="2.375" />
+        <Point X="4.25" Y="2.375" />
+        <Point X="4.25" Y="3" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAEAAAAAAAAAIAAEAAAAAQACAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetPlayerState">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RequestPlayerState">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServerInfo">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoManager">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAQgAAAAQGAAAAEQAAAAAoAAQAAEAAAAsAAIAAAQCAA=</HashCode>
+      <FileName>Assets\Scripts\VideoManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
